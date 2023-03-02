@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f92b15f-ed90-45b0-8d9b-c981cbffb7c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domains/java/javadatatypes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domains/java/javaendoffile/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domains/java/javaifelse/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domains/java/javaloopsI/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domains/java/javaloopsII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domains/java/javaoutputformatting/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domains/java/javaprimalitytest/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domains/java/javastaticinitializerblock/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domains/java/javastdinandstdoutI/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domains/java/javastdinandstdoutII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domains/java/welcometojava/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MSN621CjsL5YClgbAg8pytkV3h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/Maikel/Mat. Computação/Projetos/hackerrank/src/main/domains/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Maikel\Mat. Computação\Projetos\hackerrank\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.domains.java.javaifelse.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="domains.java.javaloopsI.Solution" />
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domains.java.javaloopsI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="domains.java.javaifelse.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="domains.java.javaifelse.Solution" />
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domains.java.javaifelse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="domains.java.javaloopsII.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="domains.java.javaloopsII.Solution" />
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domains.java.javaloopsII.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="domains.java.javaoutputformatting.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="domains.java.javaoutputformatting.Solution" />
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domains.java.javaoutputformatting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="domains.java.javaprimalitytest.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="domains.java.javaprimalitytest.Solution" />
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domains.java.javaprimalitytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.domains.java.javaifelse.Solution" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.domains.java.javaloopsII.Solution" />
+        <item itemvalue="Application.domains.java.javaoutputformatting.Solution" />
+        <item itemvalue="Application.domains.java.javaprimalitytest.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f92b15f-ed90-45b0-8d9b-c981cbffb7c7" name="Changes" comment="" />
+      <created>1677756854558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677756854558</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
