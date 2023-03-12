@@ -19,5 +19,11 @@ Follow the list below:</p>
 <li>Java End-of-file</li>
 <li>Java Primality Test</li>
 </ol>
+
+<p>Questions applied in tests:</p>
+
+<ol>
+<li>Calculate the average salary of employees over 35 years old. Only for sectors where there is more than one employee</li>
+</ol>
 </body>
 </html>

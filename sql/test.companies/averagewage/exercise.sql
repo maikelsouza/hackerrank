@@ -1,6 +1,6 @@
--- This problem you gonna need to calculate the
--- average wage the employees who is over 35 years old.
--- Only for sectores what exist over one employees.
+-- This problem you gonna need to Calculate the average
+-- salary of employees over 35 years old. Only for sectors
+-- where there is more than one employee.
 
 
 CREATE TABLE EMPLOYEE (
