@@ -23,8 +23,8 @@ Follow the list below:</p>
 <p>Questions applied in tests with SQL:</p>
 
 <ol>
-<li>Calculate the average salary of employees over 35 years old. Only for sectors where there is more than one employee</li>
-<li>Cities with more than one million habitants and order by the number of habitants. From biggest to smallest</li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/sql/test.companies/averagewage/exercise.sql">Calculate the average salary of employees over 35 years old. Only for sectors where there is more than one employee</a></li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/sql/test.companies/citiesandstates/exercise.sql">Cities with more than one million habitants and order by the number of habitants. From biggest to smallest</a></li>
 </ol>
 </body>
 </html>
