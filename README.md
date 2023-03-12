@@ -9,8 +9,8 @@ Follow the list below:</p>
 
 <ol>
 <li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/welcometojava/Solution.java">Welcome to Java</a></li>
-<li>Java Stdin and Stdout I</li>
-<li>Java Stdin and Stdout II</li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javaloopsI/Solution.java">Java Stdin and Stdout I</a></li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javaloopsII/Solution.java">Java Stdin and Stdout II</a></li>
 <li>Java If-Else</li>
 <li>Java Output Formatting</li>
 <li>Java Loops I</li>
