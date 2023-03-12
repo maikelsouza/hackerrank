@@ -9,15 +9,15 @@ Follow the list below:</p>
 
 <ol>
 <li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/welcometojava/Solution.java">Welcome to Java</a></li>
-<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javaloopsI/Solution.java">Java Stdin and Stdout I</a></li>
-<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javaloopsII/Solution.java">Java Stdin and Stdout II</a></li>
-<li>Java If-Else</li>
-<li>Java Output Formatting</li>
-<li>Java Loops I</li>
-<li>Java Loops II</li>
-<li>Java Datatypes</li>
-<li>Java End-of-file</li>
-<li>Java Primality Test</li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javastdinandstdoutI/Solution.java">Java Stdin and Stdout I</a></li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javastdinandstdoutII/Solution.java">Java Stdin and Stdout II</a></li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javaifelse/Solution.java">Java If-Else</a></li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javaoutputformatting/Solution.java">Java Output Formatting</a></li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javaloopsI/Solution.java">Java Loops I</a></li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javaloopsII/Solution.java">Java Loops II</a></li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javadatatypes/Solution.java">Java Datatypes</a></li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javaendoffile/Solution.java">Java End-of-file</a></li>
+<li><a rel="stylesheet" href="https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/javaprimalitytest/Solution.java">Java Primality Test</a></li>
 </ol>
 
 <p>Questions applied in tests with SQL:</p>
