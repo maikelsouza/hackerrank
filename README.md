@@ -9,7 +9,7 @@ Follow the list below:</p>
 
 <ol>
 <li>Welcome to Java</li>
-<li>Welcome to Java <a rel="stylesheet" href="[Solution.java](src%2Fmain%2Fjava%2Fdomains%2Fjava%2Fwelcometojava%2FSolution.java)"> HackerRank</a></li>
+<li>Welcome to Java <a rel="stylesheet" href="[Solution.java](https://github.com/maikelsouza/hackerrank/blob/master/src/main/java/domains/java/welcometojava/Solution.java)"> HackerRank</a></li>
 <li>Java Stdin and Stdout I</li>
 <li>Java Stdin and Stdout II</li>
 <li>Java If-Else</li>
