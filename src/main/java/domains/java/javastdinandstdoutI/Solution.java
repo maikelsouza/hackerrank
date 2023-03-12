@@ -1,6 +1,10 @@
 package domains.java.javastdinandstdoutI;
 
 import java.util.Scanner;
+
+ /**
+  * Exercise about Java stdin and stdout 1 of hackerrank platform
+  */
 public class Solution {
 
     public static void main(String[] args) {
