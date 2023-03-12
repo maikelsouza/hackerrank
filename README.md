@@ -9,6 +9,7 @@ Follow the list below:</p>
 
 <ol>
 <li>Welcome to Java</li>
+<li>Welcome to Java <a rel="stylesheet" href="[Solution.java](src%2Fmain%2Fjava%2Fdomains%2Fjava%2Fwelcometojava%2FSolution.java)"> HackerRank</a></li>
 <li>Java Stdin and Stdout I</li>
 <li>Java Stdin and Stdout II</li>
 <li>Java If-Else</li>
@@ -20,10 +21,11 @@ Follow the list below:</p>
 <li>Java Primality Test</li>
 </ol>
 
-<p>Questions applied in tests:</p>
+<p>Questions applied in tests with SQL:</p>
 
 <ol>
 <li>Calculate the average salary of employees over 35 years old. Only for sectors where there is more than one employee</li>
+<li>Cities with more than one million habitants and order by the number of habitants. From biggest to smallest</li>
 </ol>
 </body>
 </html>
