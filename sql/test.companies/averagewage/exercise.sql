@@ -1,4 +1,4 @@
--- This problem you gonna need to Calculate the average
+-- For this problem you gonna need to calculate the average
 -- salary of employees over 35 years old. Only for sectors
 -- where there is more than one employee.
 
