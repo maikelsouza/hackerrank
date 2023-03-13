@@ -3,7 +3,7 @@ package domains.java.javastdinandstdoutI;
 import java.util.Scanner;
 
  /**
-  * Exercise about Java stdin and stdout 1 of hackerrank platform
+  * Exercise about Java stdin and stdout I of HackerRank platform
   */
 public class Solution {
 

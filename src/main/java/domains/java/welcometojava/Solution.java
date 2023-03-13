@@ -1,7 +1,7 @@
 package domains.java.welcometojava;
 
 /**
- * Exercise about welcome to Java of hackerrank platform
+ * Exercise about welcome to Java of HackerRank platform
  */
 public class Solution {
 
