@@ -2,6 +2,9 @@ package domains.java.javastaticinitializerblock;
 
 import java.util.Scanner;
 
+/**
+ * Exercise about Java static initializer block of HackerRank platform
+ */
 public class Solution {
 
     private static int B;
