@@ -2,6 +2,9 @@ package domains.java.javaoutputformatting;
 
 import java.util.Scanner;
 
+/**
+ * Exercise about Java output formatting of HackerRank platform
+ */
 public class Solution {
 
     public static void main(String[] args) {
