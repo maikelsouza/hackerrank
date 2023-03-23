@@ -2,6 +2,9 @@ package domains.java.javaloopsII;
 
 import java.util.Scanner;
 
+/**
+ * Exercise about Java loopsII of HackerRank platform
+ */
 public class Solution {
 
     public static void main(String []argh){

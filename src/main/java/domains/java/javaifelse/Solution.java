@@ -2,6 +2,9 @@ package domains.java.javaifelse;
 
 import java.util.Scanner;
 
+/**
+ * Exercise about Java if else of HackerRank platform
+ */
 public class Solution {
 
     private static final Scanner scanner = new Scanner(System.in);

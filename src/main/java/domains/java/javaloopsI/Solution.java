@@ -4,6 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * Exercise about Java loopsI of HackerRank platform
+ */
 public class Solution {
 
     public static void main(String[] args) throws IOException {

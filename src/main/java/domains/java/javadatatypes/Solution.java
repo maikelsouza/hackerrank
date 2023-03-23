@@ -3,6 +3,9 @@ package domains.java.javadatatypes;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * Exercise about Java data types of HackerRank platform
+ */
 public class Solution {
 
     public static void main(String[] args) throws IOException {
